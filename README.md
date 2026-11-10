@@ -49,7 +49,7 @@ PyYAML
 
 ## Setup
 
-> Keep the virtual environment **outside** the project / pCloud folder — it contains gigabytes of ML packages and should not be synced. The project itself can live anywhere, e.g. `~/Projects/lipreader`.
+> Keep the virtual environment **outside** the project folder — it contains gigabytes of ML packages and should not be synced. The project itself can live anywhere, e.g. `~/Projects/lipreader`.
 
 ### 1. Create and activate the virtual environment
 
